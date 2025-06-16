@@ -10,3 +10,8 @@ print("My name is Samarth")
 ps -ef 
 
 #it tells about the process currently running
+
+
+#Now we are writting from Nbranch and we will commit it accordingly
+
+echo("Currently there is no Internet")
